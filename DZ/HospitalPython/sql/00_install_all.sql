@@ -1,0 +1,6 @@
+-- psql install (после CREATE DATABASE hospital_db)
+-- \i 01_schema.sql
+-- \i 02_data.sql
+-- \i 04_history.sql
+-- \i 03_queries.sql
+-- \i 05_history_demo.sql
